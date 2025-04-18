@@ -53,21 +53,23 @@ Energy is a vital element for sustainable development and economic growth. Effic
 
    <h3><b>Setup Instructions</b></h3>
 
-  <ul>
-    <li><strong>Clone the Repository:</strong></li>
-  </ul>
-  <pre><code>git clone https://github.com/geesarani/Appliance_Energy_Prediction-.git</code></pre>
+ <h2>Clone the Repository</h2>
+  <pre>
+git clone https://github.com/geesarani/Appliance_Energy_Prediction-.git
+cd Appliance_Energy_Prediction-
+  </pre>
 
-  <ul>
-    <li><strong>Install Dependencies:</strong></li>
-  </ul>
-  <pre><code>pip install -r requirements.txt</code></pre>
+  <h2>Install Dependencies</h2>
+  <pre>
+pip install -r requirements.txt
+  </pre>
 
-  <ul>
-    <li><strong>Run the Jupyter Notebook:</strong></li>
-  </ul>
-  <pre><code>cd notebooks
-jupyter notebook</code></pre>
+  <h2>Run the Jupyter Notebook</h2>
+  <pre>
+cd notebooks
+jupyter notebook Appliance_Energy_Prediction.ipynb
+  </pre>
+
 
   <h4><b>Data Preprocessing</b></h4>
   <p>The preprocessing steps are included in the <code>EDA.ipynb</code> notebook. Run the cells to clean and preprocess the data.</p>
