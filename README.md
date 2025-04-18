@@ -51,18 +51,6 @@ Energy is a vital element for sustainable development and economic growth. Effic
     <li><strong>Optimization Techniques:</strong> Time-based cyclical features and hyperparameter tuning were used to improve model performance.</li>
   </ul>
 
-  <h3><b>Setup Instructions</b></h3>
-  
-  Clone the Repository:
-  git clone https://github.com/geesarani/Appliance_Energy_Prediction-.git
-
-  Install Dependencies:   
-  pip install -r requirements.txt
-
-  Run the Jupyter Notebook:
-  cd notebooks
-  jupyter notebook
-
    <h3><b>Setup Instructions</b></h3>
 
   <ul>
