@@ -1,5 +1,3 @@
-# Appliance_Energy_Prediction-
-A deep learning-based time-series forecasting project to predict appliance energy consumption using multivariate environmental and temporal data. Includes data preprocessing, feature engineering, and implementation of ARIMA, LSTM, Random Forest, and Gradient Boosting models.
 
 <h2><b>Time Series Forecasting for Appliances Energy Prediction</b></h2>
 <h3><b>Overview</b></h3>
@@ -58,7 +56,7 @@ Energy is a vital element for sustainable development and economic growth. Effic
   Clone the Repository:
   git clone https://github.com/geesarani/Appliance_Energy_Prediction-.git
 
-  Install Dependencies: 
+  Install Dependencies:   
   pip install -r requirements.txt
 
   Run the Jupyter Notebook:
@@ -67,15 +65,36 @@ Energy is a vital element for sustainable development and economic growth. Effic
 
    <h3><b>Setup Instructions</b></h3>
 
-   Data Preprocessing: The preprocessing steps are included in the EDA.ipynb notebook. Run the cells to clean and preprocess the data.
+  <ul>
+    <li><strong>Clone the Repository:</strong></li>
+  </ul>
+  <pre><code>git clone https://github.com/geesarani/Appliance_Energy_Prediction-.git</code></pre>
 
-Feature Engineering: Feature engineering steps are also included in the EDA.ipynb notebook. Run the cells to create new features and prepare the data for modeling.
+  <ul>
+    <li><strong>Install Dependencies:</strong></li>
+  </ul>
+  <pre><code>pip install -r requirements.txt</code></pre>
 
-Model Training: The model training code is included in the EDA.ipynb notebook. Run the cells to train the ARIMA and LSTM models.
+  <ul>
+    <li><strong>Run the Jupyter Notebook:</strong></li>
+  </ul>
+  <pre><code>cd notebooks
+jupyter notebook</code></pre>
 
-Model Evaluation: Evaluate the models using the provided metrics (RMSE, MAE, etc.) and visualize the results.
+  <h4><b>Data Preprocessing</b></h4>
+  <p>The preprocessing steps are included in the <code>EDA.ipynb</code> notebook. Run the cells to clean and preprocess the data.</p>
 
-Optimization: Hyperparameter tuning and optimization techniques are included in the notebook. Run the cells to optimize the model parameters.
+  <h4><b>Feature Engineering</b></h4>
+  <p>Feature engineering steps are included in the <code>Appliance_Energy_Prediction.ipynb</code> notebook. Run the cells to create new features and prepare the data for modeling.</p>
+
+  <h4><b>Model Training</b></h4>
+  <p>The model training code is also in the <code>Appliance_Energy_Prediction.ipynb</code> notebook. Run the cells to train the ARIMA and LSTM models.</p>
+
+  <h4><b>Model Evaluation</b></h4>
+  <p>Evaluate the models using the provided metrics (RMSE, MAE, etc.) and visualize the results.</p>
+
+  <h4><b>Optimization</b></h4>
+  <p>Hyperparameter tuning and optimization techniques are included in the notebook. Run the cells to optimize the model parameters.</p>
 
 
 
