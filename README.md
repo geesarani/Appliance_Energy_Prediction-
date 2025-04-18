@@ -72,7 +72,7 @@ jupyter notebook Appliance_Energy_Prediction.ipynb
 
 
   <h4><b>Data Preprocessing</b></h4>
-  <p>The preprocessing steps are included in the <code>EDA.ipynb</code> notebook. Run the cells to clean and preprocess the data.</p>
+  <p>The preprocessing steps are included in the <code>Appliance_Energy_Prediction.ipynb</code> notebook. Run the cells to clean and preprocess the data.</p>
 
   <h4><b>Feature Engineering</b></h4>
   <p>Feature engineering steps are included in the <code>Appliance_Energy_Prediction.ipynb</code> notebook. Run the cells to create new features and prepare the data for modeling.</p>
